@@ -1,7 +1,7 @@
 ### 📈 Marketing Campaign ROI & Performance Analysis
 ---
 
-## Project Overview
+## Project Overview (include a link at the top for quick dashboard access)
 
 This project transforms clean marketing data into a strategic decision-making engine. Built for a multi-entity entrepreneur, I developed an analytical ecosystem that moves beyond static reporting to allow for real-time budget simulation. By leveraging Advanced SQL, Window Functions, and DAX logic, I empowered stakeholders to identify high-performing customer segments and project the impact of budget reallocations across a diverse portfolio of companies.
 
@@ -35,6 +35,15 @@ Page 2: Campaign Performance Deep Dive (can edit/check)
 
 This is where I list your technical tools. Break it down by: data modeling, sql, dax
 
+## Power BI Dashboards
+
+This is where i list key points/insights from each page in the dashboard with links
+
+## Key Insights & Recommendations
+
+list recommendations here
+
+## Data Limitations & Future Work
 
 
 
